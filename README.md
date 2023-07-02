@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+I am a Machine learning engineer and control engineering expert
+- 🔭 I’m currently working on machine learning tools to detect anomalies and to predict the remaining useful life of components and how to integrate such information into control frameworks <br\>
+- 💬 Ask me about Optimization, Artificial intelligence, and advanced control  🤔 love to help if there is the time.
+- ⚡ Fun fact:
+- - 📫 How to reach me: <a href="https:/[/www.google.com](https://www.linkedin.com/in/khoury-boutrous-655526a4/)/" target="_blank">LinkedIn</a>
 <!--
 **KHOURYREPO/KHOURYREPO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
